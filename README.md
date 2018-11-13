@@ -1,0 +1,1 @@
+# cmake_cpp_qt_desktop_project
